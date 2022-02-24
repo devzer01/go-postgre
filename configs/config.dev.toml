@@ -6,7 +6,7 @@
     port            = 5432
     user            = "postgres"
     password        = "password"
-    dbname          = "go-postgres"
+    dbname          = "go_postgres"
 
 [api]
     secret_key      = "sapiperahhijau"
